@@ -1,0 +1,1104 @@
+{
+<start>
+<banjār,> <ternopil’,> <cottage,> <united> <colombia> <homún,> <cressona,> <el> <treuenbrietzen,> <india> <uacu> <florida,> <australia,> <colomi,> <taunton,> <martínez> <ključ,> <twante,> <greece> <switzerland> <new> <states> <kék,> <hungary> <niederrohrdorf,> <castries,> <saint-molf,> <york,> <sarāi,> <undory,> <spa,> <bela> <sepekov,> <france> <aş> <italy> <moldovei,> <salvador> <philippines> <australia> <mexico> <mesnil-en-thelle,> <romania> <ethiopia> <kingdom> <canada> <fellbach,> <alaró,> <gambia> <yola,> <chodel,> <norlina,> <anton> <carolina,> <chiapas,> <cerquilho,> <bularit,> <město> <samone,> <algeria> <metují,> <juticalpa,> <speedway,> <malaysia> <grimaud,> <villa> <hernandez,> <port> <jersey,> <quebec,> <pantanal,> <le> <cuicatlán,> <belo> <bayanan,> <svitavou,> <sandnes,> <gadag,> <osterburg,> <grez-neuville,> <micoud,> <finland> <rýsion,> <germany> <rotmanka,> <värnamo,> <ireland> <choccolocco,> <hills,> <alcochete,> <al> <beach,> <russia> <queensland,> <cyprus> <portugal> <congaree,> <aci> <ohio,> <japan> 
+}
+{
+<banjār,>
+rockport, bergshamra, guatemala týrnavos, philippines 
+mexico, york, l’vovskiy, utting bo, 
+kingdom rāichūr, příšovice, republic beslan, 
+states states amory, montebello heeg, 
+bonaire, lindale, piet japan verkh-neyvinskiy, 
+states united russia italy pedro, 
+săliştea-deal, states kazakhstan bangladesh dimmitt, 
+}
+
+{
+<ternopil’,>
+wisconsin, de texas, tadid, capriata 
+bangkalan, sangatte, united italy yanji, 
+valentino contramaestre, saint-sébastien-sur-loire, puerto shumen, 
+quebec, france germany india kā‘anapali, 
+putingkahoy, landsbro, france condon, united 
+finland busilak, săcel, pennsylvania, bāzār, 
+united france finland chibougamau, apricena, 
+}
+
+{
+<cottage,>
+romania arabia nāgod, states netherlands 
+sweden france walton united turkey 
+spartanburg, states assago, san pacov, 
+japan peru az wülfershausen, changzhi, 
+italy finita, nigeria kunfehértó, de 
+germany ukraine sweden bussy-saint-georges, armenia 
+acarí, andezeno, opp, iowa, vrontoú, 
+}
+
+{
+<united>
+argentina creek, al khavárion, lubsko, 
+armenia poland illinois, shinjō, panama 
+ingersoll, russia lübz, south benbrook, 
+sola, bājūr, ledro, belgium new 
+united cussac-sur-loire, hesperia, philippines irákleion, 
+farroupilha, camargo, states panama poland 
+states poland dongo, león, nigeria 
+}
+
+{
+<colombia>
+lutzelhouse, states vladivostok, spain jaciara, 
+hampshire, ukraine united hungary united 
+united piedecuesta, germany australia montmeló, 
+york, ipswich, esquivias, czech youkaichi, 
+poland melgven, philippines spain sonora, 
+mcintosh, ferrers, china leinefelde, elwood, 
+south italy joaquín, nemesnádudvar, iraq 
+}
+
+{
+<homún,>
+germany maine, chaux, czech italy 
+dautmergen, germany gomunice, united cahir, 
+poniente, idaho, morocco honduras einville-au-jard, 
+british cuba states belgium ukraine 
+inverness, germany states florida, guenrouet, 
+spain tudela, italy virginia, utah, 
+suvorovo, russia binitayan, warsaw, laascaanood, 
+}
+
+{
+<cressona,>
+mexico ban spain philippines philippines 
+ubaitaba, romania italy flémalle-haute, la 
+evanton, california, sretensk, germany de 
+arches, serbia contern, mankayan, italy 
+münchweiler querétaro, russia republic corbola, 
+sremčica, kingdom puerto states maryland, 
+lacey, argentina dhuwaran, philippines richmond, 
+}
+
+{
+<el>
+chālakudi, miqdādīyah, cuba united ireland 
+romania schijndel, states anshan, serbia 
+india brienne-le-château, jersey, states united 
+ulanhot, ussac, gnosjö, san kingdom 
+alabama, cruz dietramszell, caloveto, bantayan, 
+chupaca, iowa, spain seelingstädt, united 
+united switzerland russia neuzina, elliot, 
+}
+
+{
+<treuenbrietzen,>
+virginia, norway germany castleside, denmark 
+sakīt, chiautzingo, switzerland forêt-sur-sèvre, france 
+czech pochayiv, states racławice germany 
+león, united néa romania toro, 
+san saint-denis, states trazo, agliè, 
+piantedo, netherlands belalcazar, handorf, kainan, 
+nossendorf, pakistan eloy, brazil panama 
+}
+
+{
+<india>
+argentina italy wisconsin, united united 
+kansas, united california, baclayon, turkey 
+germany germany germany germany příbor, 
+butoieşti, coatzintla, switzerland cucuteni, france 
+france seissan, gambia spain bagdad, 
+maracás, de germany south tingloy, 
+germany poland states bayt springfield, 
+}
+
+{
+<uacu>
+jabonga, united united italy weare, 
+macclesfield, paran’ga, xeraco,jaraco, heby, russia 
+germany loo, baixo eagan, australia 
+united candia baloc, carolina, italy 
+/ palestinian germany ohří, canavieiras, 
+italy missouri, phalodi, united guachetá, 
+chróścina, georgetown, andelys, india virginia, 
+}
+
+{
+<florida,>
+de teufen, sawmills, san spain 
+germany jucás, mexico kalinovo, tijera, 
+russia lipis, finland lent, new 
+india lake, states de united 
+palestrina, germany sand dumka, states 
+pennsylvania, seal philippines stone russia 
+texas, poland south roveto, germany 
+}
+
+{
+<australia,>
+united indonesia states italy logan, 
+bönigen, loma bridge, france monteleone, 
+gus’-khrustal’nyy, states belalcazar, boyolangu, sweden 
+czarnowo, france italy raimundo contai, 
+paracale, anzano oksbøl, united ketanggungan, 
+antón poland states russia states 
+germany el china calatrava, united 
+}
+
+{
+<colomi,>
+wächtersbach, czech mošorin, al jersey, 
+germany phae, haverstraw, la uruguay 
+states united lestelle-bétharram, romania states 
+germany victoria, feltria, valdastico, friedrichsruhe, 
+surani, united banraeaba cana oregon, 
+senden, virginia, russia el guadeloupe 
+denmark antônio plougonven, pennsylvania, vlădeşti, 
+}
+
+{
+<taunton,>
+france dhali, nextlalpan, vorderweidenthal, sāhik, 
+states nauru tennessee, republic croatia 
+cîmp, fuli, strasburg, burco, turkey 
+park, tardière, netherlands india argentina 
+italy juan kentucky, philippines tuscania, 
+karārī, five weddelbrook, gangloff, india 
+lithuania lithuania romania vagos, perreux-sur-marne, 
+}
+
+{
+<martínez>
+highland india same, france palestinian 
+club vestbjerg, republic arabia kurort 
+belgium states poggio wisconsin, russia 
+garden turinsk, california, united italy 
+sweden langenpreising, france new colombia 
+beindersheim, italy gagliano barbosa, qitaihe, 
+states yurimaguas, mortagne-sur-gironde, states guia, 
+}
+
+{
+<ključ,>
+united united zealand walpole, kimbe, 
+tennessee, muromtsevo, republic sampiro, germany 
+spain - texas, tirūr, united 
+france russia lugau, thíra, russia 
+united lakes, puebla, westport, island, 
+segundo, villena, happy france mauritius 
+vieillevigne, germany minnesota, linxe, jos, 
+}
+
+{
+<twante,>
+los suliţa-tîrg, spain france villanueva 
+ishige, tiszabercel, russia states heroica 
+rasun spain amtzell, india argentina 
+chesterfield, united massachusetts, rofrano, lindow, 
+palizzi, states singac, nayarit, germany 
+united pirogovo, warrenton, saint-jean-la-poterie, makarska, 
+maryland, heage, bulgaria united mauritius 
+}
+
+{
+<greece>
+springville, colombia italy germany delhi 
+connecticut, sweden del starotimoshkino, hungary 
+tippi, states czech arduini, myanmar 
+talwāra, australia saxon, mullsjö, colombia 
+mountain niceto, beşikdüzü, uzbekistan states 
+edwinstowe, dell'umbria, united germany iset’, 
+germany oltza, verrua konnagar, hill, 
+}
+
+{
+<switzerland>
+california, trémentines, philippines barberton, poland 
+flora, saint-philbert-de-bouaine, texas, united united 
+basilio, brazil lealman, italy zhongfang, 
+hudson, louisville, altos, point rosa 
+spain kingdom italy spain georgia, 
+cammeray, poland marth, burgen, licking, 
+states united camden, saint-martin-d'hères, romania 
+}
+
+{
+<new>
+united vrå, mexico colombia vedasandūr, 
+nirmsdorf, kingdom united poland washington, 
+cayman united heights, united bystrica, 
+del pālang, valdaora germany krempna, 
+italy poland herzegovina veracruz, united 
+ford konstantynów bahrain united canillo, 
+philippines brazil bali, mexico palestinian 
+}
+
+{
+<states>
+russia victoria, ukraine czech sunrise 
+states california, mexico torrice, gamba, 
+italy ono, united morris, gradignan, 
+states fuente zubovo, falls, new 
+alfonso, east connecticut, germany germany 
+africa pinoso, lausen, united armenia 
+harvest, states france united philippines 
+}
+
+{
+<kék,>
+germany buri, neuendettelsau, states / 
+hutang, france maloma, greece iowa, 
+france uzbekistan tiesa, germany france 
+germany united portugal india djibouti 
+poland karachay, greeneville, italy pance, 
+massachusetts, las michigan, guarene, france 
+germany laviana, hājo, hotarele, mihajlovo, 
+}
+
+{
+<hungary>
+germany reisdorf, das santhià, elassónos, 
+united armenia states montmarault, astrea, 
+langelsheim, néa states kingdom united 
+sillé-le-guillaume, brazil bekeshevskaya, france washburn, 
+russia sant florida, macedonia laos 
+states laar, iran united navas 
+united italy casarile, saint-chinian, states 
+}
+
+{
+<niederrohrdorf,>
+italy florida, oued, united belgium 
+fray armenia germany spain italy 
+states ar united ohio, winkelbach, 
+mexico france france huité, lipsk, 
+france united united big ixcán, 
+colombia florida, france copenhagen, france 
+xiantan, hanshagen, spain hungary states 
+}
+
+{
+<castries,>
+argentina romania kingdom serbia grumbach, 
+angola romania states stroud, states 
+maykor, hawaii, new france virginia, 
+philippines nicaragua united germany kobiór, 
+washington, states united italy cove, 
+alta united wisconsin, eschenbergen, india 
+oman olivares, skipton, punta illinois, 
+}
+
+{
+<saint-molf,>
+pittsboro, sandusky, states argentina united 
+manjakandriana, united spain north mihályi, 
+india germany united finneytown, thailand 
+bradford, poland smarves, united russia 
+gremberghoven, viloco, united russia cernusco 
+states berbenno, bei united brazil 
+texas, fagnano kinmparana, la dzit’hank’ov, 
+}
+
+{
+<york,>
+stow, ruşeţu, unterweißbach, prostřední india 
+vadlamuru, china france ash australia 
+pearl united seveso, united clenze, 
+italy tennessee, republic states barauli, 
+żarki, united divignano, oslavany, united 
+germany aqsay, mihovljan, oklahoma, poland 
+sweden schönborn, romania italy united 
+}
+
+{
+<sarāi,>
+kingdom quebec, hämeenlinna, germany states 
+kozubszczyzna, caledonia, epworth, kingdom puerto 
+switzerland dareton, brazil paraguay beni 
+shatin, nagycenk, states united louisiana, 
+panama mugron, schitu-goleşti, louisiana, ilgın, 
+achenheim, states kingdom horse, priolo 
+territory carolina, vayres, united tune, 
+}
+
+{
+<undory,>
+egypt florida, chase, ukraine portugal 
+bastorf, sri wolverhampton, utica, states 
+germany netherlands russia condé-sur-huisne, palestinian 
+virginia, butig, dickenschied, united fedele 
+czech armenia virieu-le-grand, croatia states 
+germany states massachusetts, states edward 
+italy freigné, buena states vandalia, 
+}
+
+{
+<spa,>
+spain cailloux, states states states 
+india carolina, poland hartland, italy 
+neustadt rey, minnesota, states united 
+russia states bielany jollyville, bečva, 
+guignicourt, creek, salado, spain libertad, 
+kingdom poland tunisia republic chile 
+france castelfidardo, béïda, salvaleón, united 
+}
+
+{
+<bela>
+bosanska poland benin netherlands arizona, 
+greece alt australia united indonesia 
+brazil pennsylvania, poland new nettleton, 
+benito san tiszabercel, stadtlohn, germany 
+italy republic marianowo, ukraine kazanów, 
+florida, states nuquí, do france 
+india eltham, united peru states 
+}
+
+{
+<sepekov,>
+germany balikpapan, cenotillo, whitestown, states 
+labège, villa vishnevo, switzerland haßfurt, 
+lithgow, states afzalgarh, rong, united 
+australia philippines states quebec, cameroon 
+wellington, united düvier, vaxholm, france 
+alaska, portugal watervliet, pfäffikon pablo 
+maple luksuhin, philippines york, france 
+}
+
+{
+<france>
+united şerbăneşti, united lervik, india 
+states ichihara, hungary alvaro argyl, 
+italy tyrnyauz, poland russia germany 
+san colombia states china united 
+drensteinfurt, united united sahāi, states 
+new texas, drachtstercompagnie, sri bad 
+states italy frederikssund, ashington, borehamwood, 
+}
+
+{
+<aş>
+saskatchewan, reigate, karlshafen, koblenz, malta 
+haveli, germany virginia, burgeo, morocco 
+ubiale del guam head, germany 
+sweden greece tennessee, mexico germany 
+terrugem, village, turkey japan greece 
+renesse, romania dumalinao, gervasio france 
+rey, maria, states york, hydesville, 
+}
+
+{
+<italy>
+states germany states new kenilworth, 
+port-saint-père, park, south caraúbas, mauritius 
+netherlands texas, united gohpur, colombia 
+terrasini, danville, 4) bosco, kingdom 
+kareela, marina, germany cransac, cumaovası, 
+hellaby, arkansas, grass nabunturan, united 
+germany china granaglione, benson, connecticut, 
+}
+
+{
+<moldovei,>
+united the flammersfeld, caledonia maria, 
+san north united ramsey, santo 
+mpongwe, doha, france sweden saranac 
+saint-alban-leysse, castelmoron-sur-lot, mexico germany ne' 
+dăbuleni, united farmington, philippines statesville, 
+states elkhart, west, france united 
+yucatán, richmond san méxico, porã, 
+}
+
+{
+<salvador>
+milena, russia sirolo, spain springs, 
+millers vesuviana, badan, denmark barcelona, 
+territory poland méxico, kingdom romania 
+germany orzhiv, states united alpnach, 
+states kokuy, meeder, epuyén, states 
+town, newfoundland, hamoraon, portugal germany 
+nigeria tevriz, russia germany states 
+}
+
+{
+<philippines>
+nizhnyaya india windberg, south poland 
+santee, kingdom miguel united meyn, 
+germany valle, italy niardo, colorado, 
+germany altötting, taft, france pinotepa 
+sherrebek, iran india united philip, 
+germany lakemore, united gadegast, czech 
+akoupé, progreso portugal sterdyń, saint-héand, 
+}
+
+{
+<australia>
+etzling, san italy georgia, czernikowo, 
+nahāvand, szczeciński, lenexa, alberta, france 
+united lupia, aan vito, republic 
+unley, sunnyside, germany antônio california, 
+states poland germany alaska, garidech, 
+ater, zacapoaxtla, mandlā, mġarr, payshanba, 
+kensworth, bahāwalpur, states manor, tigui, 
+}
+
+{
+<mexico>
+sinaloa, india guadalix, brazil da 
+shamkhal-termen, höchstberg, united irirum, nad 
+enniscorthy, spétses, salles-sur-mer, sandy, przysucha, 
+el czech united pinto, loano, 
+west, françois, france united kavieng, 
+brazil bellenaves, united brey, burwood, 
+russia monteveglio, isle nicaragua ratne, 
+}
+
+{
+<mesnil-en-thelle,>
+yai, muiños, juan russia brazil 
+bolatice, colovale, astorga, deodoro, gilbert, 
+italy of herzegovina republic states 
+france kyshtym, new österbymo, bāzār, 
+philippines united mittelschöntal, states states 
+germany ion jemil, sweden saudi 
+france philippines cyprus states pennsylvania, 
+}
+
+{
+<romania>
+tajikistan cannon united sublette, verrone, 
+germany luitré, philippines linselles, united 
+poland kemp indiana, york, spain 
+ferraris, philippines são malay-le-grand, united 
+camuno, texas, viverone, united colorado, 
+saint-gildas-des-bois, michigan, united veracruz, argentina 
+villa échiré, states new buglio 
+}
+
+{
+<ethiopia>
+belair, alatri, pennsylvania, russia states 
+buechel, china hong kahului, verde, 
+poland tynda, jersey, la states 
+slovenia france norway united adoru, 
+ranchos, united panan, united states 
+new alabama, connecticut, spain czech 
+states bhāyāvadar, kingdom yazd, hội 
+}
+
+{
+<kingdom>
+philippines states saints, santa france 
+france michigan, hidalgo, ronneby, germany 
+united vex, papillion, torbay, grisolles, 
+netherlands and georgia, colombia slovenia 
+brazil gurghiu, washington, kurri states 
+gretna, china nuenen, algeria republic 
+united moroto, kingdom westchester, rosolini, 
+}
+
+{
+<canada>
+caledonia states pole, tassin-la-demi-lune, peyrilhac, 
+states russia poland figueras, united 
+bei italy south gaya, de 
+spain hummels france beibei, suchiate, 
+do germany france united czech 
+hünenberg, india territory michigan, săpînţa, 
+marion, lomas, harlem, states san 
+}
+
+{
+<fellbach,>
+colombia hòa ungsang-nodongjagu, germany philippines 
+modave, india cameroon kingdom haßfurt, 
+kingdom carterville, digby, tinutulan, d'erba, 
+küttigen, ossa kingdom jalisco, bellerose, 
+romania vermont, beaumont-sur-lèze, brainerd, hills, 
+saudi seven macken, south germany 
+vicenza, ucluelet, ukraine france dominican 
+}
+
+{
+<alaró,>
+seoni, nieszawka, port states states 
+adams, oakdale, states lachen, safīpur, 
+harlem, carballiño, martonvásár, valcellina, romania 
+flowery du pensacola, hoosick madagascar 
+mexico ellesmere, volkesfeld, michigan, states 
+manchester, ghana philippines spain tinubuan, 
+beaconsfield milford, petersburg, great tepelenë, 
+}
+
+{
+<gambia>
+texas, dakota, france guerrero, urzy, 
+republic germany ústí, slavsk, states 
+mississippi, atagi, japan épron, tokār, 
+mississippi, united united new sag 
+sandovo, italy virginia, belgium guéreins, 
+states united wilhelmshaven, darhan, united 
+mcintosh, sudan gainesville, france switzerland 
+}
+
+{
+<yola,>
+kenya states united russia arizona, 
+russia east states czech mexico 
+xico, indiana, norway egypt germany 
+republic germany floreffe, states beach, 
+hilliard, neuendorf, poland italy mörschbach, 
+france south germany maría greenbrier, 
+colorado, cyprus new mednogorsk, united 
+}
+
+{
+<chodel,>
+united united united aţintiş, alfano, 
+virginia, poland mexico romania mijlad, 
+kingdom styckebruk, germany united saint 
+mesia, new rica fratta, italy 
+maní, south uluborlu, mexico venezuela 
+united branch, tensbüttel-röst, michigan, hollum, 
+germany ukraine cervarese oklahoma, trept, 
+}
+
+{
+<norlina,>
+santa ligure, germany australia mequon, 
+united france arnsgereuth, states spain 
+yamaguchi-shi, states california, brazil weissport 
+cuba crestview russia california, vittoria 
+saint-andré-de-la-roche, querétaro, united courfaivre, india 
+colombia naples, khŭjayli, arnold, idaho, 
+zblewo, højby, annicco, hermitage, netherlands 
+}
+
+{
+<anton>
+iran monte republic new pocsaj, 
+broadview states novoshcherbinovskaya, sol’vychegodsk, saint-wandrille-rançon, 
+china gambara, waldleiningen, states italy 
+an romania states paradis, naschel, 
+joaquim czech cape seaforth, seversk, 
+ukraine kishan, brazil states nova 
+volketswil poland kingdom shenstone, smržovka, 
+}
+
+{
+<carolina,>
+spain uzun spain kdyně, australia 
+pakistan lacrouzette, united states pennsylvania, 
+jiujiang, india states guancha, philippines 
+princeville, south dubieckie, united takatsuki, 
+france de botswana ghioroc, germany 
+mexico republic wasselonne, - georgia 
+la kandana, dominica united france 
+}
+
+{
+<chiapas,>
+buldan, united víssa, united kingdom 
+valenzano, brazil belgium united russia 
+loveland kuchaiburi, mandlā, castello italy 
+connecticut, bartolomé varadero, vincey, friedelshausen, 
+latina, gürün, bubach, russia magenta, 
+kochinda, les massachusetts, italy general 
+santo whitianga, mignaloux-beauvoir, vodyanoye, double 
+}
+
+{
+<cerquilho,>
+end, guadeloupe germany egypt burauen, 
+flammersfeld, monroe, soligalich, ridley san 
+ukraine yaviza, arkansas, rāmjībanpur, ranch, 
+georgia, hufūf, tizapán newark, switzerland 
+delaware, devesel, germany united germany 
+philippines orange, thailand nicotera, russia 
+united dornbirn, harbor, of hellwege, 
+}
+
+{
+<bularit,>
+niger alabama, oklahoma, france segundo, 
+michoacán, states germany baia maine, 
+arayat, castelnuovo saze, paraguay estancia, 
+republic czarna gemunde, de serbia 
+berlin tembisa, san poland italy 
+sensenti, states gîrbovi, india greece 
+windham, eltville, russia united coubron, 
+}
+
+{
+<město>
+amagi, carolina, germany alabama, ludlow, 
+massachusetts, philippines rumersheim-le-haut, utah, states 
+rabenholz, orleans, la france town, 
+states crna mexico leval, fils, 
+kabanga, united germany philippines finland 
+india india schlotfeld, gīdam, germany 
+tasmania, krasavino, köktöbe, röhrnbach, italy 
+}
+
+{
+<samone,>
+republic texas, territory salvador de 
+paramus, village, central solnhofen, mexico 
+italy city, huy, piazza lokoja, 
+states san states dagebüll, france 
+russia united united tennessee, italy 
+brazil weitbruch, british germany michigan, 
+city, palestinian portugal sankt warnsveld, 
+}
+
+{
+<algeria>
+france berkeley, new germany kleinen, 
+słotowa, mexico china chhnăng, montana, 
+kingdom great germany united demak, 
+slovakia florida, samarai, sible argentina 
+germany headlands, france united hlebine, 
+romania türkenfeld, acres, falls, united 
+florida, marano states ponderosa brunswick, 
+}
+
+{
+<metují,>
+lohkirchen, pennsylvania, yangjiapo, monte-carlo, canada 
+california, belgium pennsylvania, brook, itzehoe, 
+philippines states poland romania cuba 
+de serbia germany murzuq, michigan, 
+states cuba schall germany espita, 
+llarga, santa tuyên ochër, neu-guntramsdorf, 
+alkersum, headland, spain united germany 
+}
+
+{
+<juticalpa,>
+pennsylvania, mexico girey, berardenga, philippines 
+el states linkenheim-hochstetten, termeno carate 
+buffalo romania isniq, shoals, cuba 
+dawa-dawa, poland saint-vaast-la-hougue, verrettes, góra, 
+im india fletcher, mariestad, view, 
+hill, korhogo, states united natuba, 
+carolina, domingo germany pangian, portugal 
+}
+
+{
+<speedway,>
+china romania puerto juan tagliamento, 
+philippines italy kingdom atagi, thailand 
+oregon, rozay-en-brie, ukraine germany serbia 
+siluko, hungary évaux-les-bains, states leone 
+laya, romania united oregon, el 
+l'isle-d'abeau, châtillon-sur-indre, topolog, nhulunbuy, united 
+italy republic helper, states portugal 
+}
+
+{
+<malaysia>
+pine, germany domneşti-sârbi, park, kosovo 
+mexico, yreka, algeria hawthorne, village, 
+warnbro, vaulx-milieu, erdweg, india united 
+al parabcan, crossgar, plandome hampshire, 
+spain china erfweiler, united glikóvrisi, 
+frenda, shepherdsville, holland, germany russia 
+italy france guenrouet, santo torinese, 
+}
+
+{
+<grimaud,>
+leutkirch russia california, mexico philippines 
+belleville-sur-meuse, brazil serebriya, colombia costa 
+elmstein, germany tolcsva, polýkastron, wakefield, 
+bil‘īn, freienfeld, united desterro, united 
+states adtugan, united philippines vidim, 
+panama germany maynooth, mouanko, punta 
+romania france bānda, jersey, leutasch, 
+}
+
+{
+<villa>
+viereth-trunstadt, united calbe, harschbach, ontario, 
+india states tunggol, romania japan 
+united mexico ditscheid, celenza la 
+florida, ahmadpur kedrovyy, bugang, salingogan, 
+wisconsin, island, fonte germany united 
+states grande, germany westerstetten, germany 
+méxico, mack-forest quebec, italy poland 
+}
+
+{
+<hernandez,>
+barry, proletariy, states virginia, territory 
+states fells, russia spain jersey, 
+germany united columbia, states missouri, 
+denmark spain romania spain italy 
+grove, vathý, states finland york, 
+states philippines india louisville, lestizza, 
+sus, coon china new valmorea, 
+}
+
+{
+<port>
+mudigere, india jaipur, ohio, russia 
+united france balneario, states veracruz, 
+italy romania south vietnam united 
+istok, honduras vamvakoú, le valverde 
+royersford, do france bultei, méxico, 
+turkey indonesia states italy united 
+states indiana, de altlay, lake 
+}
+
+{
+<jersey,>
+polomolok, ukraine revigny-sur-ornain, valwig, michigan, 
+italy castro, netherlands foa, philippines 
+amilly, feira, pléchâtel, saschiz, germany 
+martina israel states gardens, pennsylvania, 
+mala belgium mountain paraguay amparafaravola, 
+marlton, budapest states romania estanislao, 
+ferdinandovac, miglianico, tuchkovo, germany vitry-sur-orne, 
+}
+
+{
+<quebec,>
+stýpsi, italy karlstadt, cortona, connecticut, 
+united lakhi, japan india italy 
+czech ghana iowa, park, archis, 
+montánchez, ostojićevo, petřvald, poland pollestres, 
+cubatão, neuf-brisach, states minnesota, willow 
+texas, spain germany united mexico 
+russia ethiopia indiana, canada germany 
+}
+
+{
+<pantanal,>
+yorosso, umkirch, honduras valff, lackland 
+mezzagno, france wemding, united jonage, 
+caparica, states south united new 
+spain russia tabasco, san caçador, 
+belgium france lucano, missungwi, west 
+gustavia, nesso, baley, brunswick, walldorf, 
+malitubog, clear united puebla, muri, 
+}
+
+{
+<le>
+harzgerode, illinois, molbergen, la ibateguara, 
+grove, united north states states 
+rasūlnagar, pietrowice menai new milo, 
+lake, buderim, zaragoza, ghana germany 
+ora tanzania united germany minna, 
+shimorskoye, moţilor, russia egna czech 
+germany oppède, brazil timiryazevskoye, bangjun, 
+}
+
+{
+<cuicatlán,>
+dosimo, recanati, chodzież, tīra italy 
+lauterecken, bangladesh united russia united 
+skórzec, brazil india united herstal, 
+united bluff faso şırnak, clervaux, 
+andkhōy, gladewater, lo states germany 
+brazil states states minnesota, germany 
+heede, united united guelavía, kingdom 
+}
+
+{
+<belo>
+plouguiel, assenede, ayotzingo, křížová, trèbes, 
+united fairbanks, italy france roque 
+vilshofen, japan olathe, alegre, malaysia 
+horgenzell, lithuania states france romania 
+kingdom dixon, tiverton, australia romania 
+mexico states italy united romania 
+jalālpur maryland, russia canada united 
+}
+
+{
+<bayanan,>
+china nigeria chester states bacabac, 
+czech russia eṭ states cotton 
+india italy new states portugal 
+verde, italy france romania states 
+nigeria germany herbrechtingen, states fortuna, 
+united united rogno, kápolnásnyék, italy 
+pamiątkowo, russia poland york, states 
+}
+
+{
+<svitavou,>
+torres, saint-just-la-pendue, atoyatempan, chota, leuteboro, 
+china philippines denmark, france egypt 
+itzehoe, czech republic biar, zubiena, 
+del megliadino illinois, territory mangarine, 
+earth, viverone, mońki, united gabon 
+tann moriyama, states russia carolina, 
+pier, carolina, russia italy united 
+}
+
+{
+<sandnes,>
+brody, united united saint-perreux, south 
+yanaoca, gabarin, kazakhstan united nad 
+spain łapy, jersey, dapchi, puerto 
+polesine, italy republic shackelford, melbourne, 
+sơn, dietersheim, mayrhofen, france itaenga, 
+north states bar, romania rumford, 
+bolivia milis, states alness, australia 
+}
+
+{
+<gadag,>
+united fermina, algeria novi terme, 
+germany pialông, villebernier, le hunter, 
+rūpnagar, jablunkova, west united blue 
+germany narodychi, belau, san states 
+circleville, thornton, morelos, ychoux, posterstein, 
+piancastagnaio, germany zagrodno, mexico united 
+india republic states mazańcowice, talnakh, 
+}
+
+{
+<osterburg,>
+kronburg, monferrato, grădinari, dakota, kingdom 
+states mead virginia, united nyergesújfalu, 
+veracruz, india france illinois, alaska, 
+russia saint-yorre, germany germany united 
+rifā‘, sangiano, iowa, italy green, 
+sumagui, states romania molare, denmark, 
+philippines de murwillumbah, yizheng, germany 
+}
+
+{
+<grez-neuville,>
+reunion united polje, maryland, siderno 
+týnec, united morbier, saint-épain, brazil 
+states higuera turkey states new 
+kobylanka, minnesota, am italy sanniki, 
+hunedoara, states pennsylvania, south united 
+sri ‘ibwayn, texas, cockburn angeles 
+florida, romania bolivia romania del 
+}
+
+{
+<micoud,>
+selikhino, centralina, irinjālakuda, pakistan germany 
+india bali, poland da mareuil-sur-ourcq, 
+united france montescot, italy caminos, 
+states gehlberg, gavrilov grove united 
+greenland france bulgaria ciocăneşti, el 
+birmingham, democratic marienville, redstone states 
+philippines philippines jiménez, guatemala dayton, 
+}
+
+{
+<finland>
+city, united kenya tamborine india 
+virrat, comunas, italy united werda, 
+federal, australia parisien, bolivia greece 
+virginia, india porto aguadilla, saint-germer-de-fly, 
+6) russia coroas, katubao, pierrefitte-sur-seine, 
+shatin, saint indiana, smiřice, illinois, 
+novohrad-volyns’kyy, pakistan new schwanheim, states 
+}
+
+{
+<rýsion,>
+fournes-en-weppes, denmark netherlands netherlands germany 
+vista york, states fauldhouse, spain 
+united michigan, village, lesslie, brazil 
+sant'egidio romania united vigny, vammala, 
+italy manta, hofke, weisendorf, bou 
+united wadhurst, crépy-en-valois, austria greece 
+states france ponferrada, jamaica beckdorf, 
+}
+
+{
+<germany>
+states sankt states iran france 
+hungary malabago, germany mexico, germany 
+pentyrch, united states switzerland germany 
+castelnuovo france united united fournes-en-weppes, 
+tramutola, burbank, young france italy 
+united thailand corneilla-del-vercol, states new 
+romania york, philippines germany states 
+}
+
+{
+<rotmanka,>
+russia philippines russia kalitva, hitura, 
+eureka, menucourt, ukraine australia hudson, 
+brazil bartonville, france sweden france 
+new påskallavik, states united hannawa 
+united saba, fukue, north south, 
+armenia united borlänge, australia, cyprus 
+de india france united muskegon, 
+}
+
+{
+<värnamo,>
+inning grasberg, point, united italy 
+broderstorf, costa united australia fucecchio, 
+donnersdorf, de bobonan, germany cambuci, 
+tinutulan, united basiglio, australia germany 
+india giles, botswana carolina, kingdom 
+states york, russia czech mexico 
+melenki, formigaro, guerrero, united del 
+}
+
+{
+<ireland>
+turkey coarraze, lugano, united austria 
+fredonia, italy charleroi, states abomsa, 
+united texas, republic peru skawica, 
+werkendam, brezniţa texas, carrollton, jining, 
+united poland oaxaca, czech joliet, 
+france slovakia states escondido, wyoming, 
+united olmedo, hargesheim, viecheln, porto 
+}
+
+{
+<choccolocco,>
+am india schlieren gushikawa, south 
+napāsar, russia romania kingdom states 
+india villa germany united turkey 
+massachusetts, france france desenzano italy 
+el kentucky, france siwān, united 
+united argentina zimbabwe herzegovina renggam, 
+ukraine ghebbo, grabenstetten, germany newtown 
+}
+
+{
+<hills,>
+indiana, maglavit, nova states romania 
+veresegyház, philippines states north aureilhan, 
+mexico, states united gachetá, states 
+wales, finderne, begowāla, macedonia united 
+philippines germany nyoiseau, utah, lebanon, 
+uzbekistan sirohi, portugal tekman, victoria, 
+pantelimon guadeloupe bari south paulilatino, 
+}
+
+{
+<alcochete,>
+giles, germany áno france states 
+romania malaysia nigeria magdeburg, texas, 
+germany argentina poland czech italy 
+markópoulo, sannita, valencia, germany la 
+states states philippines united philippines 
+philippines montaigu-de-quercy, vidnoye, france tall 
+norway italy finland united faso 
+}
+
+{
+<al>
+maryland, bykhaw, hamur, nădrag, perry 
+republic niceville, bawinkel, kuwait sumidero, 
+south vietnam spain spétses, krunkel, 
+ukraine castañar romania states løten, 
+lesquin, maría michigan, spain bromwich, 
+tapa, united sand, france philippines 
+australia, regional făureşti, lautersheim, oaxaca, 
+}
+
+{
+<beach,>
+dallas, philippines france arizona, nabīnagar, 
+áratos, romania coal 12), sierra, 
+farm, france crîngurile thundorf new 
+denmark hoback, ash france spain 
+tīr states italy gorici, ashkāsham, 
+sukhobuzimskoye, rincón utah, york, new 
+mäntyharju, yampil’, brazil russia canada 
+}
+
+{
+<russia>
+rodeneck, germany hemingford geisenfeld, san 
+virginia, bonefeld, susanville, and chiapas, 
+aridaía, india milford, italy wilsecker, 
+russia france new france soyen, 
+haines moāv, ranstadt, united coco, 
+new netherlands upper wurmlingen, united 
+norway romania france states créances, 
+}
+
+{
+<queensland,>
+marquetalia, west india texas, ball 
+egypt monroe, coromoro, tangjiazhuang, canada 
+reale, santa washington, mountain springs, 
+bourth, states italy ukraine la 
+vostok, wisconsin, city, halluin, krylovskaya, 
+arizona, beaver mexico newton, united 
+germany watsa, and oakland, bude, 
+}
+
+{
+<cyprus>
+canada foeni, united arlington ottersweier, 
+spain pueblo capari, brazil moundville, 
+quebec, iowa, la mayor, greece 
+harrogate, şoimari, cherryville, les belgium 
+serafimovskiy, territory united pavlodol’skaya, turkey 
+united chengguanzhen, united states gonzales, 
+new meilen, united illinois, california, 
+}
+
+{
+<portugal>
+united groß presidente russia serravalle 
+louisiana, kollum, falls, indonesia capitola, 
+kingdom korea states states ‘afrīn, 
+baindt, thailand germany ḩāmūl, aluniş, 
+carlos, reunion solaize, hillsboro, york, 
+philippines honduras coësmes, france stěbořice, 
+la states abstatt, austria york, 
+}
+
+{
+<congaree,>
+north terrazzo, hinigaran, pregassona, gossersweiler-stein, 
+spain pennsylvania, poland esbly, harbison 
+montmagny, kingdom hungary kiskőrös, massachusetts, 
+heihe, watson, switzerland united states 
+casalmaggiore, belgium quadrelle, pilig, chiuza, 
+hohenpeißenberg, bosnia tonantins, pietrasanta, granze, 
+india monticello, united united france 
+}
+
+{
+<aci>
+states colombia brazil united hungary 
+geisa, hartsville, ocean france castillo, 
+france india ginestas, marieville, kingdom 
+north hungary quebec, louisiana, calabugao, 
+germany australia, states high anulid, 
+nicaragua united rognac, philippines vialonga, 
+states chihuahua, central georgia, calasiao, 
+}
+
+{
+<ohio,>
+buckland, faleniu, bishopthorpe, turkey fairmont, 
+jáuregui, sain-bel, comoros states wackerow, 
+pregradnoye, germany france calabaca, germany 
+indiana, plédran, healesville, united korea 
+leone leonard polski, states germany 
+costa cuba são barnesville, romania 
+san uzbekistan syriam, germany united 
+}
+
+{
+<japan>
+germany united states guatemala philippines 
+campo germany states united kapitanivka, 
+new virginia, eccleston, united nkoaranga, 
+harriman, păuca, states mexico, gualdo 
+konstantinovo, cistierna, kingdom bălăuşeri, sebezh, 
+philippines philippines the france germany 
+canada united france kazakhstan pennsylvania, 
+}
+
